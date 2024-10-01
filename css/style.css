@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: lightslategray;
+    background-color: #f6f8f9;
 }
 
 
@@ -37,8 +37,6 @@ body {
     margin: 70px auto ;
     padding: 20px 40px;
 
-    /* debug */
-    border: 2px solid black;
 }
 
 
@@ -63,7 +61,7 @@ button{
 }
 
 .divider{
-    border-color: lightslategray;
+    border-color: #f6f8f9;
     margin: 10px -40px;
 }
 .list h2{
