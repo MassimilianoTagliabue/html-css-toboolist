@@ -67,6 +67,27 @@ button{
     margin: 10px -40px;
 }
 
-.list{
+.list li{
     list-style: none;
+}
+
+.list span {
+    margin: 15px 0;
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 50%;
+
+}
+
+.green{
+    color: green;
+    border: 1px solid green;
+}
+
+.red{
+    color: red;
+    border: 1px solid red;
 }
